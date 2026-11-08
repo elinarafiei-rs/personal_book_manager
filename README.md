@@ -13,6 +13,7 @@ A simple book management project mode with Python
 - Save books
 - Laod saved books
 - Admin mood
+- Assign a priority level to each book (low,medium, or high)
 
 ## Project Structure
 ```
@@ -144,3 +145,15 @@ main.py
 * what should I check?
 
 `ccheck the ` .env `file and the variable name:` BOOK_MANAGER_ADMIN_PASSWORD
+
+# Book Priority
+
+Each book can have one of three priority levels:
+
+- `low` : low priority
+- `medium` : medium priority
+- `high` : high priority
+
+Users can assing a priority level when adding a new book
+
+The program displays each books name and priority
