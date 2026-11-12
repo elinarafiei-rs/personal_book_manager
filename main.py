@@ -18,7 +18,11 @@ else:
     print("Wrong password!")
 
 
-print(f"Welcome {name}")
+
+
+
+print(f"hello {name} to Personal your Book Manager!")
+
 
 books = load_books()
 
