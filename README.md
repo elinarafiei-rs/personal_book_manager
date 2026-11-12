@@ -13,7 +13,6 @@ A simple book management project mode with Python
 - Save books
 - Laod saved books
 - Admin mood
-- Assign a priority level to each book (low,medium, or high)
 
 ## Project Structure
 ```

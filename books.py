@@ -8,7 +8,7 @@ def display_books(books):
         print("No books found.")
         return
 
-    for book in books:
+    for book in books
         print(book)
 
 
