@@ -32,3 +32,5 @@ for i in range(number_of_books):
 save_books(books)
 
 display_books(books)
+
+print(len(books))
