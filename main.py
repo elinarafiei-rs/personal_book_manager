@@ -32,7 +32,7 @@ number_of_books = int(input("\nHow many books do you want to add? "))
 for i in range(number_of_books):
     book = input(f"Enter the name of book {i + 1}: ")
     books.append(book)
-    print("book added successfully")
+    print("python basics added successfully")
 save_books(books)
 
 display_books(books)
